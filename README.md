@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [MiniProject](https://github.com/Spurthi-019/MiniProject.git)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Java,DSA,Development**
 
 - 📫 How to reach me **spurthi019@gmail.com**
 
