@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spurthi-019" alt="spurthi-019" /></a> </p>
 
 
-- 🔭 I’m currently working on [MiniProject](https://github.com/Spurthi-019/MiniProject.git)
+- 🔭 I’m currently working on Java Development
 
 - 🌱 I’m currently learning **Java,DSA,Development**
 
