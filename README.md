@@ -153,7 +153,7 @@ A network performance monitoring system built for real-time diagnostics.
 
 ### 📫 Let's Connect
 
-If you're working on something in Data Science, Java, or Analytics — I'd love to collaborate. Reach out anytime!
+If you're working on something in Data Science, Java Backend Development, or Analytics — I'd love to collaborate. Reach out anytime!
 
 <a href="https://linkedin.com/in/spurthi019"><img src="https://img.shields.io/badge/-Say%20Hi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:spurthi019@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
