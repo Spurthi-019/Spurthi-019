@@ -1,69 +1,165 @@
 <div align="center">
-  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f"  />
+
+<img src="https://raw.githubusercontent.com/Spurthi-019/Spurthi-019/main/profile_circular.png" width="160" height="160" style="border-radius:50%;" alt="Spurthi H Pujar"/>
+
+<br>
+
+# Hi, I'm Spurthi 👋
+
+### Data Science Student · Java Developer · Turning Data into Decisions
+
+<br>
+
+<a href="https://instagram.com/__spurti_reddy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/spurthi019"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Spurthi_019"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:spurthi019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=spurthi-019&label=Profile%20views&color=6f42c1&style=flat" alt="profile views"/>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Spurthi</h1>
-<h3 align="center">A passionate Data Science Student </h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spurthi-019&label=Profile%20views&color=0e75b6&style=flat" alt="spurthi-019" /> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spurthi-019" alt="spurthi-019" /></a> </p>
+- 🔭 Currently building **Data Science** projects and **Java** applications
+- 🤝 Open to collaborating on **Open Source Java Projects**, **Data Science Research**, and **Analytics Solutions**
+- 🧠 Looking for help with **Machine Learning** and **System Design**
+- 🌱 Currently deepening my skills in **Advanced Java**, **Machine Learning**, and **Big Data**
+- 💬 Ask me about **Java · SQL · Python · Power BI · Data Science · DSA**
+- ⚡ Fun fact: I love turning messy datasets into clean insights — and solving hard Java problems for fun
 
-# 💫 About Me:
-🔭 I’m currently working on Data Science projects and Java applications<br><br>👯 I’m looking to collaborate on Open Source Java Projects, Data Science Research, and Analytics Solutions<br><br>🤝 I’m looking for help with Machine Learning and System Design<br><br>🌱 I’m currently learning Advanced Java, Machine Learning and Big Data Technologies<br><br>💬 Ask me about Java, SQL, Python, Power BI, Data Science, and Data Structures & Algorithms<br><br>⚡ Fun fact: I enjoy turning complex datasets into insights and solving challenging coding problems with Java
+<br>
 
+## 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__spurti_reddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spurthi019) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Spurthi_019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spurthi019@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
+**Languages & Data**
+<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**ML & Analytics**
+<br>
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=for-the-badge&logo=dgraph&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-# 📊 GitHub Stats
+**Backend & Data Engineering**
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase)
 
-![](https://github-readme-stats.vercel.app/api?username=spurthi-019&theme=tokyonight&show_icons=true&hide_border=true)
+**Tools & Deployment**
+<br>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=spurthi-019&theme=tokyonight&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spurthi019&theme=tokyonight&layout=compact&hide_border=true)
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI-Enhanced B2B Contract Management & Risk Analysis SaaS](https://github.com/Spurthi-019/AI-Enhanced-B2B-Contract-Management-Risk-Analysis-SaaS)
+An AI-powered SaaS platform for contract management and automated risk analysis.
+<br>`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 [Customer Churn Analysis](https://github.com/Spurthi-019/customer_churn_analysis)
+Enterprise-grade full-stack system using FastAPI, React & PostgreSQL, with Scikit-Learn + SHAP for explainable churn prediction and retention insights.
+<br>`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Customer Behavior Analysis](https://github.com/Spurthi-019/customer_behavior_analysis)
+Analyzed customer behavior on sales data using Python, SQL, and Power BI to surface actionable business insights.
+<br>`Jupyter Notebook`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Network Performance Monitor](https://github.com/Spurthi-019/network-monitor)
+A network performance monitoring system built for real-time diagnostics.
+<br>`Python`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏅 Certifications
+
+![Data Science](https://img.shields.io/badge/Certified-Data%20Science-6f42c1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/Certified-SQL-2f81f7?style=for-the-badge)
+![Java](https://img.shields.io/badge/Certified-Java%20Programming-orange?style=for-the-badge)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Spurthi-019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spurthi-019&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spurthi-019&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Spurthi-019&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Spurthi-019&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
----
+</div>
 
-# 🐍 Snake Contribution Graph
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/spurthi-019/spurthi-019/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Spurthi-019/Spurthi-019/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
-# 🚀 Featured Projects
+</div>
 
-### 📊 Data Analytics Dashboard
-Interactive Power BI dashboard for business insights, KPI tracking, and data visualization.
+<br>
 
-### ☕ Java Management System
-Java + MySQL based application implementing CRUD operations and database connectivity.
+<div align="center">
 
----
+### 📫 Let's Connect
 
-# 📜 Certifications
+If you're working on something in Data Science, Java, or Analytics — I'd love to collaborate. Reach out anytime!
 
-🏅 Data Science
+<a href="https://linkedin.com/in/spurthi019"><img src="https://img.shields.io/badge/-Say%20Hi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:spurthi019@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-🏅 SQL
+<br><br>
 
-🏅 Java Programming
+<sub>Thanks for stopping by! ⭐ this profile if you found it interesting.</sub>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
