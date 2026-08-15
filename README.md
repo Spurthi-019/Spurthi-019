@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Spurthi-019/Spurthi-019/main/profile_circular.png" width="160" height="160" style="border-radius:50%;" alt="Spurthi H Pujar"/>
+<img src="https://raw.githubusercontent.com/Spurthi-019/Spurthi-019/main/profile_circular.svg" width="160" height="160" alt="Spurthi H Pujar"/>
 
 <br>
 
