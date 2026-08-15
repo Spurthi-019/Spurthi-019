@@ -1,0 +1,34 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="blobGradient" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#5b21b6"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.2"/>
+    </filter>
+  </defs>
+
+  <!-- Floating blob -->
+  <path filter="url(#softBlur)" fill="url(#blobGradient)"
+    d="M470,15
+       C560,0 650,20 685,70
+       C720,120 705,185 645,205
+       C585,225 505,215 460,180
+       C415,145 400,90 420,55
+       C435,30 445,20 470,15 Z"/>
+
+  <!-- Name -->
+  <text x="50" y="105" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#f5f3ff" letter-spacing="1">
+    SPURTHI H PUJAR
+  </text>
+
+  <!-- Subtitle -->
+  <text x="52" y="155" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#e9e4ff">
+    Data Science Student · Java Backend Developer
+  </text>
+  <text x="52" y="190" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#c4b5fd">
+    Final Year · Open to Internship &amp; Full-Time Opportunities
+  </text>
+</svg>
