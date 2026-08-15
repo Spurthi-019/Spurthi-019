@@ -23,12 +23,13 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Data Science** projects and **Java** applications
-- 🤝 Open to collaborating on **Open Source Java Projects**, **Data Science Research**, and **Analytics Solutions**
-- 🧠 Looking for help with **Machine Learning** and **System Design**
-- 🌱 Currently deepening my skills in **Advanced Java**, **Machine Learning**, and **Big Data**
-- 💬 Ask me about **Java · SQL · Python · Power BI · Data Science · DSA**
-- ⚡ Fun fact: I love turning messy datasets into clean insights — and solving hard Java problems for fun
+- 🎓 Final-year Data Science student, actively looking for **internship and full-time opportunities**
+- 🔭 Currently building projects across **Data Science**, **Java backend development (Spring Boot)**, and applied ML
+- 🤝 Open to collaborating on **Open Source Java/Spring Boot projects**, **Data Science research**, and **Analytics solutions**
+- 🧠 Sharpening my skills in **Spring Boot, Spring AI, REST APIs**, and **Machine Learning system design**
+- 🌱 Currently learning **Advanced Java, Docker, and Big Data technologies**
+- 💬 Ask me about **Java · Spring Boot · SQL · Python · Power BI · Data Science · DSA**
+- ⚡ Fun fact: I love turning messy datasets into clean insights — and building backend systems that actually hold up
 
 <br>
 
