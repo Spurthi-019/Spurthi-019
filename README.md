@@ -141,13 +141,7 @@ A network performance monitoring system built for real-time diagnostics.
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Spurthi-019&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ## 🐍 Contribution Snake
 
