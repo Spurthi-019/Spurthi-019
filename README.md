@@ -6,7 +6,7 @@
 
 # Hi, I'm Spurthi 👋
 
-### Data Science Student · Java Developer · Turning Data into Decisions
+### Data Science Student · Developer · Turning Data into Decisions
 
 <br>
 
