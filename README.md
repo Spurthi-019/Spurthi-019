@@ -141,7 +141,7 @@ A network performance monitoring system built for real-time diagnostics.
 
 </div>
 
-
+<br>
 
 ## 🐍 Contribution Snake
 
@@ -154,6 +154,8 @@ A network performance monitoring system built for real-time diagnostics.
 </picture>
 
 </div>
+
+</br>
 
 <br>
 
