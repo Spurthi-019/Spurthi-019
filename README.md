@@ -147,7 +147,11 @@ A network performance monitoring system built for real-time diagnostics.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Spurthi-019/Spurthi-019/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkp00/abhishekkp00/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekkp00/abhishekkp00/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abhishekkp00/abhishekkp00/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
